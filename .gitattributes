@@ -1,0 +1,2 @@
+data/ filter=lfs diff=lfs merge=lfs -text
+data/lahman_1871-2022.sqlite filter=lfs diff=lfs merge=lfs -text
